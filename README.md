@@ -5,7 +5,7 @@ This repository contains:
 
 2) 'visibilityPatches.m' a matlab function to extract the frequency profile of Visibility Patches from Images and spatial data.
 
-3) 'tutorial.m' a matlab script to guide the use in the analysis of images using Image Visibility Graphs.
+3) 'tutorial.m' a matlab script to guide the user in the analysis of images using Image Visibility Graphs.
 
 These codes can be redistributed and/or modified under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
